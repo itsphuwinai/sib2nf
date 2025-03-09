@@ -1,0 +1,2 @@
+This is the first branch file in our GitHub repository.  
+It was created as part of an assignment to practice working with branches.  
