@@ -1,0 +1,2 @@
+This file belongs to the 3rd branch, which was created from the 1st branch instead of the main branch.  
+It demonstrates branching off from a non-main branch in GitHub.  
